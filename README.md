@@ -1,1 +1,1 @@
-# Malicious-URL-Detection
+# Mini_project_SASTRA
